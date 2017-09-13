@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 59a9380f6257e7a4d8adfd7b261f63b7
+timeCreated: 1464206168
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 4frames_0
+    21300002: 4frames_1
+    21300004: 4frames_2
+    21300006: 4frames_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 4frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1226
+        height: 1018
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -219.5, y: 182}
+        - {x: -219.5, y: -182}
+        - {x: 219.5, y: -182}
+        - {x: 219.5, y: 182}
+    - name: 4frames_1
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 0
+        width: 1223
+        height: 1018
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -218.70361, y: 182}
+        - {x: -218.70361, y: -182}
+        - {x: 219.29639, y: -182}
+        - {x: 219.29639, y: 182}
+    - name: 4frames_2
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 0
+        width: 1127
+        height: 1018
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -201.18994, y: 182}
+        - {x: -201.18994, y: -182}
+        - {x: 202.81006, y: -182}
+        - {x: 202.81006, y: 182}
+    - name: 4frames_3
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 0
+        width: 1097
+        height: 1018
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -195.99658, y: 182}
+        - {x: -195.99658, y: -182}
+        - {x: 197.00342, y: -182}
+        - {x: 197.00342, y: 182}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

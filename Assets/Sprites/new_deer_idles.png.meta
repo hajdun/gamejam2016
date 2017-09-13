@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: d53173f07a16abc4ea42a64ab8b93a09
+timeCreated: 1463520063
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: new_deer_idles_0
+    21300002: new_deer_idles_1
+    21300004: new_deer_idles_2
+    21300006: new_deer_idles_3
+    21300008: new_deer_idles_4
+    21300010: new_deer_idles_5
+    21300012: new_deer_idles_6
+    21300014: new_deer_idles_7
+    21300016: new_deer_idles_8
+    21300018: new_deer_idles_9
+    21300020: new_deer_idles_10
+    21300022: new_deer_idles_11
+    21300024: new_deer_idles_12
+    21300026: new_deer_idles_13
+    21300028: new_deer_idles_14
+    21300030: new_deer_idles_15
+    21300032: new_deer_idles_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: new_deer_idles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 140, y: 69}
+        - {x: 98, y: 164}
+        - {x: 62, y: 189}
+        - {x: -5, y: 189}
+        - {x: 8, y: 111}
+        - {x: -176, y: 81}
+        - {x: -184, y: 71}
+        - {x: -184, y: -62}
+        - {x: -173, y: -189}
+        - {x: -164, y: -197}
+        - {x: -158, y: -199}
+        - {x: -105, y: -199}
+        - {x: -23, y: -183}
+        - {x: -19, y: -198}
+        - {x: -17, y: -199}
+        - {x: -8, y: -199}
+        - {x: 7, y: -180}
+        - {x: 138, y: 42}
+        - {x: 140, y: 48}
+    - name: new_deer_idles_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1236
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145, y: 76}
+        - {x: 91, y: 170}
+        - {x: 64, y: 186}
+        - {x: 33, y: 186}
+        - {x: 8, y: 176}
+        - {x: -14, y: 59}
+        - {x: -180, y: 86}
+        - {x: -184, y: 74}
+        - {x: -184, y: -10}
+        - {x: -164, y: -47}
+        - {x: -183, y: -193}
+        - {x: -178, y: -199}
+        - {x: -130, y: -199}
+        - {x: -31, y: -83}
+        - {x: -21, y: -198}
+        - {x: -21, y: -199}
+        - {x: 0, y: -199}
+        - {x: 89, y: 40}
+        - {x: 142, y: 33}
+        - {x: 145, y: 42}
+    - name: new_deer_idles_2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1236
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 184}
+        - {x: 30, y: 184}
+        - {x: 6, y: 174}
+        - {x: -48, y: 60}
+        - {x: -184, y: 85}
+        - {x: -184, y: -148}
+        - {x: -182, y: -193}
+        - {x: -164, y: -197}
+        - {x: -158, y: -197}
+        - {x: -153, y: -190}
+        - {x: -134, y: -180}
+        - {x: -132, y: -175}
+        - {x: -77, y: -49}
+        - {x: -26, y: -183}
+        - {x: -19, y: -199}
+        - {x: 6, y: -199}
+        - {x: 119, y: 10}
+        - {x: 152, y: 34}
+        - {x: 152, y: 117}
+    - name: new_deer_idles_3
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1236
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: 182}
+        - {x: 26, y: 182}
+        - {x: 22, y: 149}
+        - {x: 50, y: 115}
+        - {x: -174, y: 76}
+        - {x: -184, y: 67}
+        - {x: -184, y: -108}
+        - {x: -176, y: -190}
+        - {x: -164, y: -197}
+        - {x: -158, y: -197}
+        - {x: -149, y: -191}
+        - {x: -128, y: -176}
+        - {x: -19, y: -198}
+        - {x: -18, y: -199}
+        - {x: 5, y: -199}
+        - {x: 150, y: 30}
+        - {x: 153, y: 37}
+        - {x: 153, y: 63}
+    - name: new_deer_idles_4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1236
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156, y: 33}
+        - {x: 156, y: 62}
+        - {x: 86, y: 176}
+        - {x: 14, y: 176}
+        - {x: 25, y: 79}
+        - {x: -80, y: 56}
+        - {x: -181, y: 81}
+        - {x: -184, y: 71}
+        - {x: -184, y: -102}
+        - {x: -172, y: -199}
+        - {x: -155, y: -199}
+        - {x: -134, y: -181}
+        - {x: -23, y: -54}
+        - {x: -21, y: -198}
+        - {x: -20, y: -199}
+        - {x: 0, y: -199}
+        - {x: 47, y: -50}
+        - {x: 134, y: 31}
+        - {x: 148, y: 29}
+    - name: new_deer_idles_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 140, y: 48}
+        - {x: 140, y: 69}
+        - {x: 98, y: 164}
+        - {x: 62, y: 189}
+        - {x: -5, y: 189}
+        - {x: 8, y: 111}
+        - {x: -176, y: 81}
+        - {x: -184, y: 71}
+        - {x: -184, y: -62}
+        - {x: -173, y: -189}
+        - {x: -164, y: -199}
+        - {x: -142, y: -199}
+        - {x: -99, y: -104}
+        - {x: -19, y: -198}
+        - {x: -17, y: -199}
+        - {x: -8, y: -199}
+        - {x: 8, y: -180}
+        - {x: 124, y: 42}
+        - {x: 138, y: 42}
+    - name: new_deer_idles_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 824
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146, y: 18}
+        - {x: 146, y: 68}
+        - {x: 122, y: 156}
+        - {x: 87, y: 180}
+        - {x: 41, y: 180}
+        - {x: 28, y: 172}
+        - {x: -18, y: 49}
+        - {x: -107, y: 94}
+        - {x: -184, y: 80}
+        - {x: -184, y: -144}
+        - {x: -173, y: -189}
+        - {x: -164, y: -199}
+        - {x: -142, y: -199}
+        - {x: -99, y: -104}
+        - {x: -19, y: -198}
+        - {x: -17, y: -199}
+        - {x: -9, y: -199}
+        - {x: 6, y: -179}
+        - {x: 88, y: 46}
+        - {x: 145, y: 11}
+    - name: new_deer_idles_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 824
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146, y: 134}
+        - {x: 127, y: 156}
+        - {x: 121, y: 156}
+        - {x: 113, y: 151}
+        - {x: 97, y: 156}
+        - {x: 77, y: 156}
+        - {x: 68, y: 153}
+        - {x: -2, y: 51}
+        - {x: -185, y: 78}
+        - {x: -185, y: -194}
+        - {x: -177, y: -199}
+        - {x: -143, y: -199}
+        - {x: -100, y: -104}
+        - {x: -20, y: -198}
+        - {x: -18, y: -199}
+        - {x: -10, y: -199}
+        - {x: 4, y: -179}
+        - {x: 40, y: -20}
+        - {x: 146, y: -28}
+    - name: new_deer_idles_8
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 824
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147, y: 132}
+        - {x: 87, y: 132}
+        - {x: 28, y: 51}
+        - {x: -185, y: 80}
+        - {x: -185, y: -194}
+        - {x: -177, y: -199}
+        - {x: -143, y: -199}
+        - {x: -100, y: -104}
+        - {x: -21, y: -55}
+        - {x: -24, y: -183}
+        - {x: -20, y: -198}
+        - {x: -20, y: -199}
+        - {x: 3, y: -199}
+        - {x: 74, y: -63}
+        - {x: 159, y: -41}
+        - {x: 159, y: 109}
+    - name: new_deer_idles_9
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 824
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 176, y: 92}
+        - {x: 158, y: 101}
+        - {x: 126, y: 101}
+        - {x: 101, y: 47}
+        - {x: -185, y: 79}
+        - {x: -185, y: -194}
+        - {x: -165, y: -197}
+        - {x: -159, y: -197}
+        - {x: -154, y: -190}
+        - {x: -134, y: -181}
+        - {x: -24, y: -183}
+        - {x: -20, y: -198}
+        - {x: -18, y: -199}
+        - {x: -9, y: -199}
+        - {x: 7, y: -180}
+        - {x: 136, y: -79}
+        - {x: 176, y: 39}
+    - name: new_deer_idles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 195, y: -2}
+        - {x: 195, y: 50}
+        - {x: 170, y: 69}
+        - {x: 2, y: 48}
+        - {x: -103, y: 70}
+        - {x: -184, y: 70}
+        - {x: -184, y: -110}
+        - {x: -171, y: -199}
+        - {x: -134, y: -199}
+        - {x: -22, y: -57}
+        - {x: -23, y: -183}
+        - {x: -19, y: -198}
+        - {x: -19, y: -199}
+        - {x: 0, y: -199}
+        - {x: 49, y: -53}
+        - {x: 78, y: -107}
+        - {x: 139, y: -92}
+    - name: new_deer_idles_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 412
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 185, y: -17}
+        - {x: 185, y: 1}
+        - {x: 178, y: 3}
+        - {x: 158, y: 35}
+        - {x: 138, y: 32}
+        - {x: -125, y: 70}
+        - {x: -179, y: 70}
+        - {x: -184, y: 60}
+        - {x: -184, y: -117}
+        - {x: -172, y: -199}
+        - {x: -134, y: -199}
+        - {x: -22, y: -57}
+        - {x: -23, y: -183}
+        - {x: -19, y: -198}
+        - {x: -17, y: -199}
+        - {x: -8, y: -199}
+        - {x: 6, y: -179}
+        - {x: 94, y: -144}
+        - {x: 179, y: -50}
+    - name: new_deer_idles_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 412
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: -199}
+        - {x: 130, y: -136}
+        - {x: 135, y: -87}
+        - {x: 135, y: -20}
+        - {x: -7, y: 52}
+        - {x: -49, y: 55}
+        - {x: -126, y: 44}
+        - {x: -160, y: 70}
+        - {x: -184, y: 70}
+        - {x: -184, y: -62}
+        - {x: -173, y: -189}
+        - {x: -164, y: -199}
+        - {x: -142, y: -199}
+        - {x: -99, y: -104}
+        - {x: -26, y: -183}
+        - {x: -19, y: -199}
+        - {x: 5, y: -199}
+        - {x: 41, y: -106}
+        - {x: 69, y: -191}
+        - {x: 86, y: -199}
+    - name: new_deer_idles_13
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 412
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -130}
+        - {x: 107, y: -193}
+        - {x: 125, y: -183}
+        - {x: 125, y: -19}
+        - {x: 37, y: 70}
+        - {x: -183, y: 70}
+        - {x: -184, y: 64}
+        - {x: -184, y: -22}
+        - {x: -173, y: -189}
+        - {x: -164, y: -199}
+        - {x: -9, y: -199}
+        - {x: 5, y: -179}
+        - {x: 18, y: -114}
+        - {x: 26, y: -67}
+    - name: new_deer_idles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 140, y: 48}
+        - {x: 140, y: 69}
+        - {x: 98, y: 164}
+        - {x: 62, y: 189}
+        - {x: -5, y: 189}
+        - {x: 8, y: 111}
+        - {x: -176, y: 81}
+        - {x: -184, y: 71}
+        - {x: -184, y: -62}
+        - {x: -173, y: -189}
+        - {x: -164, y: -199}
+        - {x: -142, y: -199}
+        - {x: -99, y: -104}
+        - {x: -19, y: -198}
+        - {x: -17, y: -199}
+        - {x: -8, y: -199}
+        - {x: 8, y: -180}
+        - {x: 124, y: 42}
+        - {x: 138, y: 42}
+    - name: new_deer_idles_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: 42}
+        - {x: 140, y: 43}
+        - {x: 140, y: 97}
+        - {x: 81, y: 189}
+        - {x: 3, y: 189}
+        - {x: -8, y: 57}
+        - {x: -178, y: 91}
+        - {x: -184, y: 79}
+        - {x: -184, y: -62}
+        - {x: -173, y: -189}
+        - {x: -164, y: -199}
+        - {x: -142, y: -199}
+        - {x: -99, y: -104}
+        - {x: -19, y: -198}
+        - {x: -17, y: -199}
+        - {x: -8, y: -199}
+        - {x: 8, y: -180}
+        - {x: 76, y: 57}
+        - {x: 124, y: 42}
+    - name: new_deer_idles_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 392
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 140, y: 83}
+        - {x: 97, y: 164}
+        - {x: 62, y: 189}
+        - {x: 32, y: 189}
+        - {x: -17, y: 175}
+        - {x: -16, y: 59}
+        - {x: -176, y: 81}
+        - {x: -184, y: 71}
+        - {x: -184, y: -62}
+        - {x: -173, y: -189}
+        - {x: -164, y: -199}
+        - {x: -142, y: -199}
+        - {x: -99, y: -104}
+        - {x: -19, y: -198}
+        - {x: -17, y: -199}
+        - {x: -8, y: -199}
+        - {x: 8, y: -180}
+        - {x: 138, y: 42}
+        - {x: 140, y: 45}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

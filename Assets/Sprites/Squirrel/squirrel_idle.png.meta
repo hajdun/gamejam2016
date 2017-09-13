@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: bdb5ec5468b39f24c9222d079b19e3db
+timeCreated: 1463423659
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: squirrel_idle_0
+    21300002: squirrel_idle_1
+    21300004: squirrel_idle_2
+    21300006: squirrel_idle_3
+    21300008: squirrel_idle_4
+    21300010: squirrel_idle_5
+    21300012: squirrel_idle_6
+    21300014: squirrel_idle_7
+    21300016: squirrel_idle_8
+    21300018: squirrel_idle_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: squirrel_idle_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 29.5}
+        - {x: -31, y: 4.5}
+        - {x: -31, y: -33.5}
+        - {x: 9, y: -33.5}
+        - {x: 29, y: -4.5}
+        - {x: 29, y: 17.5}
+        - {x: 25, y: 29.5}
+    - name: squirrel_idle_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 27.5}
+        - {x: -27, y: 20.5}
+        - {x: -27, y: -33.5}
+        - {x: 13, y: -33.5}
+        - {x: 27, y: -8.5}
+        - {x: 27, y: 19.5}
+        - {x: 22, y: 27.5}
+    - name: squirrel_idle_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 22.5}
+        - {x: 24, y: 24.5}
+        - {x: -29, y: 24.5}
+        - {x: -29, y: -32.5}
+        - {x: -28, y: -33.5}
+        - {x: 7, y: -33.5}
+        - {x: 9, y: -31.5}
+        - {x: 28, y: -6.5}
+        - {x: 29, y: -5.5}
+    - name: squirrel_idle_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 26.5}
+        - {x: -31, y: -27.5}
+        - {x: -28, y: -33.5}
+        - {x: 16, y: -33.5}
+        - {x: 30, y: -13.5}
+        - {x: 30, y: 20.5}
+        - {x: 17, y: 26.5}
+    - name: squirrel_idle_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 29.5}
+        - {x: -28, y: 29.5}
+        - {x: -32, y: 28.5}
+        - {x: -32, y: -33.5}
+        - {x: 7, y: -33.5}
+        - {x: 32, y: -15.5}
+        - {x: 32, y: 7.5}
+        - {x: 25, y: 22.5}
+    - name: squirrel_idle_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 4, w: 0}
+      outline:
+      - - {x: -35, y: 28.5}
+        - {x: -35, y: -33.5}
+        - {x: 18, y: -33.5}
+        - {x: 27, y: -31.5}
+        - {x: 32, y: -25.5}
+        - {x: 32, y: 7.5}
+        - {x: 24, y: 28.5}
+    - name: squirrel_idle_6
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline:
+      - - {x: -21, y: 28.5}
+        - {x: -31, y: 25.5}
+        - {x: -32, y: 9.5}
+        - {x: -32, y: -33.5}
+        - {x: 17, y: -33.5}
+        - {x: 32, y: -30.5}
+        - {x: 32, y: 16.5}
+        - {x: 14, y: 28.5}
+    - name: squirrel_idle_7
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 27.5}
+        - {x: -27, y: 27.5}
+        - {x: -30, y: 25.5}
+        - {x: -31, y: 20.5}
+        - {x: -31, y: -25.5}
+        - {x: -29, y: -32.5}
+        - {x: -28, y: -33.5}
+        - {x: 11, y: -33.5}
+        - {x: 31, y: -10.5}
+        - {x: 31, y: 11.5}
+        - {x: 27, y: 23.5}
+    - name: squirrel_idle_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 24.5}
+        - {x: -30, y: 16.5}
+        - {x: -30, y: -30.5}
+        - {x: -29, y: -33.5}
+        - {x: 10, y: -33.5}
+        - {x: 30, y: -8.5}
+        - {x: 30, y: 11.5}
+        - {x: 25, y: 24.5}
+    - name: squirrel_idle_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 26.5}
+        - {x: -28, y: 21.5}
+        - {x: -28, y: -30.5}
+        - {x: -26, y: -33.5}
+        - {x: 15, y: -33.5}
+        - {x: 28, y: -9.5}
+        - {x: 28, y: 20.5}
+        - {x: 22, y: 26.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 8a8359fe59a3d544ebfdc2baa1ec3559
+timeCreated: 1463071960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GreenBird_0
+    21300002: GreenBird_1
+    21300004: GreenBird_2
+    21300006: GreenBird_3
+    21300008: GreenBird_4
+    21300010: GreenBird_5
+    21300012: GreenBird_6
+    21300014: GreenBird_7
+    21300016: GreenBird_8
+    21300018: GreenBird_9
+    21300020: GreenBird_10
+    21300022: GreenBird_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GreenBird_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 275
+        width: 234
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 69}
+        - {x: 78, y: 69}
+        - {x: 0, y: 86}
+        - {x: -7, y: 87}
+        - {x: -117, y: 87}
+        - {x: -117, y: -81}
+        - {x: -93, y: -87}
+        - {x: -40, y: -87}
+        - {x: 32, y: -62}
+        - {x: 117, y: -3}
+        - {x: 117, y: 36}
+    - name: GreenBird_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 274
+        width: 221
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: 66.5}
+        - {x: 85.5, y: 77.5}
+        - {x: 26.5, y: 77.5}
+        - {x: 8.5, y: 74.5}
+        - {x: -101.5, y: 17.5}
+        - {x: -110.5, y: 9.5}
+        - {x: -110.5, y: -77.5}
+        - {x: 19.5, y: -77.5}
+        - {x: 36.5, y: -68.5}
+        - {x: 105.5, y: 6.5}
+        - {x: 110.5, y: 19.5}
+        - {x: 110.5, y: 46.5}
+    - name: GreenBird_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 221
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: 81.5}
+        - {x: -14.5, y: 81.5}
+        - {x: -33.5, y: 79.5}
+        - {x: -110.5, y: -9.5}
+        - {x: -110.5, y: -73.5}
+        - {x: -66.5, y: -81.5}
+        - {x: 3.5, y: -81.5}
+        - {x: 104.5, y: 11.5}
+        - {x: 110.5, y: 23.5}
+        - {x: 110.5, y: 53.5}
+    - name: GreenBird_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 77
+        width: 221
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 77.5}
+        - {x: -14.5, y: 55.5}
+        - {x: -90.5, y: 21.5}
+        - {x: -99.5, y: 15.5}
+        - {x: -101.5, y: 4.5}
+        - {x: -90.5, y: -3.5}
+        - {x: -110.5, y: -41.5}
+        - {x: -110.5, y: -64.5}
+        - {x: -82.5, y: -77.5}
+        - {x: -17.5, y: -77.5}
+        - {x: 110.5, y: 3.5}
+        - {x: 110.5, y: 38.5}
+        - {x: 88.5, y: 77.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
